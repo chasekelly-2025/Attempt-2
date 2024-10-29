@@ -16,7 +16,5 @@ I need to go get groceries, so I am going to get:
 4. Rice
 5. Ground Beef
 6. ~~Fruit~~
-7. ==Uncrustables== 
-
 ### Heading Level 3
-All of these will help me get ready for this week of school. 
+==All of these will help me get ready for this week of school== 
