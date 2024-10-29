@@ -17,4 +17,4 @@ I need to go get groceries, so I am going to get:
 5. Ground Beef
 6. ~~Fruit~~
 ### Heading Level 3
-==All of these will help me get ready for this week of school== 
+<mark>All of these will help me get ready for this week of school<mark> 
